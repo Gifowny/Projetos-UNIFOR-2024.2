@@ -1,5 +1,0 @@
-Resultados da Urna:
-Número: 22, Nome: André Fernandes, Votos: 1
-Número: 12, Nome: José Sarto, Votos: 0
-Número: 13, Nome: Evandro Leitão , Votos: 0
-Número: 45, Nome: Capitão Wagner, Votos: 0
